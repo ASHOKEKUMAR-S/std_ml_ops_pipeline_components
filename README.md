@@ -30,7 +30,7 @@ Each script under `ml_ops_pipeline/` is responsible for a specific stage in the 
 Clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/Ashoke238/std_ml_ops_pipeline_components.git
+git clone https://github.com/ASHOKEKUMAR-S/std_ml_ops_pipeline_components.git
 cd std_ml_ops_pipeline_components
 pip install -r requirements.txt
 
